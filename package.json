@@ -1,0 +1,23 @@
+{
+  "name": "TestTask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "Vladimir Zhuvak",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "colors": "^1.3.3",
+    "mocha": "^6.0.2",
+    "selenium-standalone": "^6.15.3",
+    "wdio": "^3.0.3",
+    "wdio-junit-reporter": "^0.4.4",
+    "wdio-mocha-framework": "^0.6.4",
+    "wdio-selenium-standalone-service": "0.0.12",
+    "webdriverio": "^4.13.2"
+  },
+  "dependencies": {}
+}
