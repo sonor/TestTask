@@ -20,6 +20,7 @@ In order to run this file use command: 'npm test -- --spec=full-sbs-test.js'
 # Test cases short description
 BALANCE FIELD:
 -attempt to set positive numbers
+
 -attempt to set negative numbers
 -attempt to set A-Z letters
 
